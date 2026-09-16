@@ -1,12 +1,3 @@
-main {
-	border: 10px double #b5ab9e;
-	padding: 20px;
-	margin: 10px auto;
-	max-width: 1000px;
-	/*height: 100%;*/
-	background-color: #00000050;
-}
-
 h1 {
 	font-size: 4rem;
 	text-align: center;
